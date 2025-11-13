@@ -5,7 +5,8 @@ A Retrieval-Augmented Generation (RAG)-based AI Agent
 - [Project Overview](#project-overview)  
 - [Features](#features)  
 - [Getting Started](#getting-started)  
-  - [Prerequisites](#prerequisites)  
+  - [Prerequisites](#prerequisites)
+- [References](#references)
 
 ---
 
@@ -19,5 +20,8 @@ This repository enables the creation of an AI Agent that uses the Retrieval-Augm
 
 ## Getting Started  
 ### Prerequisites  
-an OPENAI_API_KEY environment variable
+- an OPENAI_API_KEY environment variable
+
+## References
+- [Youtube Video](https://www.youtube.com/watch?v=AUQJ9eeP-Ls&t=0s)
 
